@@ -1,0 +1,14 @@
+{
+    "name": "puleeno/schema-org",
+    "description": "Abstracts and Interfaces to implement  Structured Data on https://schema.org/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
